@@ -98,4 +98,3 @@ if st.button("Predict Attrition"):
     st.write(f"Retention Probability: {probability[0]:.2f}")
 
 st.markdown("---")
-st.write("Built using Streamlit and Random Forest Classifier")
